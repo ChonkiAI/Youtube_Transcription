@@ -1,0 +1,16 @@
+# Core dependencies for the pipeline
+yt-dlp
+openai-whisper
+fpdf
+torch
+
+# Additional utilities used in the notebook
+requests
+python-dotenv
+transformers
+tqdm
+ipython
+
+# For running the notebook
+jupyter
+notebook
